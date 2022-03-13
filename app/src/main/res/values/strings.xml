@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testingapp</string>
+    <string name="hyperlink">forgot your password? \n<a href="https://support.google.com/accounts/answer/41078?hl=enco=GENIE.Platform%3DDesktop">click here</a></string>
+</resources>
